@@ -1,5 +1,5 @@
 import os
-os.system("clear && figlet PROJECT")
+os.system("clear && figlet \033[0;94mPROJECT")
 # High Intensty
 IBlack="\[\033[0;90m\]" # Black
 IRed="\[\033[0;91m\]" # Red
